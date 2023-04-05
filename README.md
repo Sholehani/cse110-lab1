@@ -1,1 +1,1 @@
-Sholehani's User Page
+C++ has high-level and low-level language features.
