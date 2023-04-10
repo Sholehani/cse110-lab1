@@ -31,14 +31,8 @@ Hi! My nickname is Shol. I'm a Computer Science major here at UCSD looking for m
 
 ---
 
-
-<div align="left">
-
 ## *Languages and Tools*
-    
-</div>
-    
-
+        
 <div align="center"> 
 
 <img src="Photos/java-logo.png" width="60" height="60"> <img src="Photos/cpp-logo.png" width="50" height="50"> 
@@ -47,12 +41,8 @@ Hi! My nickname is Shol. I'm a Computer Science major here at UCSD looking for m
     
 </div>
 
-<div align="left">
-
 > *Note: Languages and tools above do not indicate my skill level or my preferences.*
     
-</div>
-
 <br/>
 
 ---
