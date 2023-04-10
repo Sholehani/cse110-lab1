@@ -35,9 +35,9 @@ Hi! My nick name is Shol. I'm a Computer Science major here at UCSD looking for 
 
 <div align="center"> 
 
-<img src="Photos/java-logo.png" alt= “” width="60" height="60"> <img src="Photos/cpp-logo.png" width="50" height="50"> 
+<img src="Photos/java-logo.png" width="60" height="60"> <img src="Photos/cpp-logo.png" width="50" height="50"> 
 
-<img src="Photos/vs-code-logo.png" alt= “” width="40" height="40"> <img src="Photos/vim-logo.png" width="40" height="40"> 
+<img src="Photos/vs-code-logo.png" width="40" height="40"> <img src="Photos/vim-logo.png" width="40" height="40"> 
 
 <div align="left">
 
