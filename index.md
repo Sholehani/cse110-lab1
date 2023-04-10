@@ -8,26 +8,22 @@
 >2. [Languages and Tools](#languages-and-tools)
 >3. [Other](#other)
 
-<br/>
-
 ---
 
 
 ## *About Me*
 
-<div align="center"> 
-
 ```
 Sholehani Hafezi
 ```
 
+<div align="center"> 
+
 <img src="Photos/UNADJUSTEDNONRAW_thumb_e62.jpg" width="150" height="290">
 
 Hi! My nickname is Shol. I'm a Computer Science major here at UCSD looking for meaningful ways to develop my network and technical skills. My main goal in this field surrounds  developing projects that serves undereprentated conflicts/communities and that advocates for accessibility. Hobbies of mine include ice skating, video games, and hanging out with freinds and family. I look forward to the challenges this course has to offer.
+        
 </div>
-
-
-<br/>
 
 ---
 
@@ -43,8 +39,6 @@ Hi! My nickname is Shol. I'm a Computer Science major here at UCSD looking for m
 
 > *Note: Languages and tools above do not indicate my skill level or my preferences.*
     
-<br/>
-
 ---
 
 
